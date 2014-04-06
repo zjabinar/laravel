@@ -20,7 +20,9 @@ form ul { margin-left: 0; list-style: none; }
 body { padding-top: 20px; }
 </style>
 </head>
+
 <body>
+
 <div class="container">
  <div class="jumbotron">
         <h1>Email Sent</h1>
@@ -29,5 +31,6 @@ body { padding-top: 20px; }
         <p><a href="/public/email" class="btn btn-info" role="button">Email features using Laravel</a></p>
       </div>
 </div>
+
 </body>
 </html>
